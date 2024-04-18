@@ -1,4 +1,4 @@
-<h1>Hey! I’m Justin Abuyuan.</h1>
+<h1>👋 Hey! I’m Justin Abuyuan.</h1>
 I am a first-year Management Engineering student at the University of Waterloo 🪿
 <h6>... I'm working hard to bring about the AI apocalypse ...</h6>
 <ul>
