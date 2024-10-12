@@ -10,5 +10,7 @@ I am a first-year Management Engineering student at the University of Waterloo ð
 If you are interested in my portfolio, please visit my <a href="https://portfolio.cms-justin-abuyuan.xyz/">beautiful website</a> :)
 
 ![jasooh's Stats](https://github-readme-stats.vercel.app/api?username=jasooh&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+
 ![jasooh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasooh&theme=slateorange&hide_border=true)
+
 ![jasooh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasooh&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
