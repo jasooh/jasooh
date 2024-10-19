@@ -7,7 +7,7 @@ I am a first-year Management Engineering student at the University of Waterloo ð
   <li>ðŸ’¼ I'd love to connect and chat - add me on LinkedIn!</li>
 </ul>
 
-If you are interested in my portfolio, please visit my <a href="https://portfolio.cms-justin-abuyuan.xyz/">beautiful website</a> :)
+If you are interested in my portfolio, please visit my <a href="https://justin-abuyuan.xyz/">beautiful website</a> :)
 
 ![jasooh's Stats](https://github-readme-stats.vercel.app/api?username=jasooh&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 
